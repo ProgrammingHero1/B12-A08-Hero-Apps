@@ -179,7 +179,9 @@
 
 ### Loading Animation
 
-- Add smooth loading animations during Page navigation / app data load / Searching.
+- Show a loading animation during: 
+  - Page navigation. 
+  - Search operation
 
 ---
 
