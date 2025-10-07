@@ -136,9 +136,9 @@
 
 - Create a custom error page for invalid routes.
 
-- Show a loading animation during:
+- Show a loading animation during: `Challenge Part`  
 
-  - Page navigation.
+  - Page navigation. 
   - Search operation.
 
 - Show a Relevant Not Found message app not found in app details section.
@@ -179,7 +179,7 @@
 
 ### Loading Animation
 
-- Add smooth loading animations during Page navigation / Initial app data load.
+- Add smooth loading animations during Page navigation / app data load / Searching.
 
 ---
 
