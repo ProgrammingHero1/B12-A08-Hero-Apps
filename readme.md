@@ -2,7 +2,7 @@
 
 ### 📅 Deadline For 60 marks: 09 October , 2025 (11:59 pm ⏱️)
 
-### 📅 Deadline For 50 marks : 10 October , 2025 (6:00 pm⏱️)
+### 📅 Deadline For 50 marks : 10 October , 2025 (11:59 pm⏱️)
 
 ### 📅 Deadline For 30 marks: Any time after 10 October , 2025.
 
