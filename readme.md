@@ -72,7 +72,6 @@
 #### States Section
 
 - Must contain three state cards as shown in Figma.
-- Each state should have a title and a unique background color or style.
 
 #### Top Apps Section
 
