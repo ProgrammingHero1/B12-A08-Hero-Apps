@@ -173,8 +173,8 @@
 
 - Implement a dropdown for sorting apps by download count.
 - The dropdown must include:
-  - **High-Low:** Sort apps in ascending order by downloads.
-  - **Low-High:** Sort apps in descending order by downloads.
+  - **High-Low:** Sort apps in descending order by downloads.
+  - **Low-High:** Sort apps in ascending order by downloads.
 
 ---
 
