@@ -1,10 +1,10 @@
 # 🦸‍♂️ Assignment 008 — Hero IO
 
-### 📅 Deadline For 60 marks: 09 October , 2025 (11:59 pm ⏱️)
+### 📅 Deadline For 60 marks: 10 October , 2025 (11:59 pm ⏱️)
 
-### 📅 Deadline For 50 marks : 10 October , 2025 (11:59 pm⏱️)
+### 📅 Deadline For 50 marks : 11 October , 2025 (5:59 pm⏱️)
 
-### 📅 Deadline For 30 marks: Any time after 10 October , 2025.
+### 📅 Deadline For 30 marks: Any time after 11 October , 2025 (5:59 pm⏱️)
 
 ---
 ## Private Repo-Link : please create your own public repository for this assignment.
